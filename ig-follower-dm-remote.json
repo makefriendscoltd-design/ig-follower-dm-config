@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "0.3.4",
+  "latestVersion": "0.3.5",
   "minVersion": "0.3.0",
-  "downloadUrl": "https://github.com/makefriendscoltd-design/ig-follower-dm-config/releases/download/v0.3.4/ig-follower-dm-0.3.4.zip",
-  "releaseNotes": "팔로워 목록 속도 개선, 공식 파일로 전체 불러오기, 자동 업데이트를 추가했어요.",
+  "downloadUrl": "https://github.com/makefriendscoltd-design/ig-follower-dm-config/releases/download/v0.3.5/ig-follower-dm-0.3.5.zip",
+  "releaseNotes": "설치가 더 간단해졌어요. 공식 파일 불러오기 결과를 보여줘요.",
   "killSwitch": false,
   "killSwitchReason": "",
   "selectors": {
