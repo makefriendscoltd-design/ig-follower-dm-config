@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "0.3.0",
+  "latestVersion": "0.3.4",
   "minVersion": "0.3.0",
-  "releaseNotes": "사용 키(라이선스) 확인을 추가했어요. 0.2.0 이하는 더 이상 발송할 수 없어요.",
+  "downloadUrl": "https://github.com/makefriendscoltd-design/ig-follower-dm-config/releases/download/v0.3.4/ig-follower-dm-0.3.4.zip",
+  "releaseNotes": "팔로워 목록 속도 개선, 공식 파일로 전체 불러오기, 자동 업데이트를 추가했어요.",
   "killSwitch": false,
   "killSwitchReason": "",
   "selectors": {
