@@ -24,6 +24,12 @@
       "accounts": [
         "bb637024b694168bb2b7e332a41ab773b7fc3c8b99d63dcb2659f70833e306af"
       ]
+    },
+    "f59fe320a9e0f156410c83f8a2cf0aeaadbb9077a87a3a143b6544de8c826d47": {
+      "status": "active",
+      "accounts": [
+        "e12a9234bf1cfa81fb6669dcb4c7f32970145d19ae9baf3335ebaecf746647cd"
+      ]
     }
   }
 }
