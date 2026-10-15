@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "latestVersion": "0.3.0",
+  "minVersion": "0.3.0",
+  "releaseNotes": "사용 키(라이선스) 확인을 추가했어요. 0.2.0 이하는 더 이상 발송할 수 없어요.",
+  "killSwitch": false,
+  "killSwitchReason": "",
+  "selectors": {
+    "newMessageLabel": {
+      "source": "^(새로운 메시지|새 메시지|New message)$",
+      "flags": "i"
+    },
+    "composeQuery": "input[name=\"queryBox\"]"
+  },
+  "policy": {
+    "maxDailyLimit": 50,
+    "minIntervalSeconds": 90,
+    "earliestStartHour": 9,
+    "latestEndHour": 21
+  },
+  "licenses": {
+    "33a1af3e2bc05774facfe3f3dbb9f2a1cdd1d679fae62e192fbd79fc8bbe800b": {
+      "status": "active",
+      "accounts": [
+        "bb637024b694168bb2b7e332a41ab773b7fc3c8b99d63dcb2659f70833e306af"
+      ]
+    }
+  }
+}
